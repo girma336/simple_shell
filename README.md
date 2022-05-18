@@ -100,4 +100,4 @@
 
 ## Authors
 
-- Girma Tarekegn and 
+- Girma Tarekegn and Yishak Abrham  
